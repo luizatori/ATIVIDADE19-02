@@ -5,10 +5,10 @@ title: "RFXX — "
 labels: ["RF"]
 ---
 
-# 📝 Requisito Funcional — RFXX  
+#  Requisito Funcional — RFXX  
 (Altere RFXX para o número apropriado)
 
-## 🎯 Descrição
+##  Descrição
 Descreva claramente o que o sistema deve fazer.
 
 Exemplo:  
@@ -16,22 +16,22 @@ _O sistema deve permitir que o usuário realize login com e-mail e senha._
 
 ---
 
-## 🎯 Objetivo de Negócio
+##  Objetivo de Negócio
 Por que esse requisito existe?
 
 ---
 
-## ✔ Critérios de Aceitação
+##  Critérios de Aceitação
 - [ ] Critério 1  
 - [ ] Critério 2  
 - [ ] Critério 3  
 
 ---
 
-## 🔗 Casos de Uso Relacionados
+##  Casos de Uso Relacionados
 - UCXX — Nome do caso de uso
 
 ---
 
-## 📌 Observações
+##  Observações
 (Se necessário)
